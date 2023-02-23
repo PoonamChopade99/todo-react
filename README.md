@@ -1,9 +1,10 @@
-#todo-react
+
+# todo-react
 ## Desktop View
-<img src="desktop-view.PNG">
+<img src="desktop-view.png">
 
 ## Mobile View
-<img src="mobile-view.PNG">
+<img src="mobile-view.png">
 
 
 # Getting Started with Create React App
